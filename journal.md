@@ -19,7 +19,7 @@ I initially considered a cloud-shaped keyboard, but changed my idea to a more st
 ### Evidence
 
 #### Initial Keyboard sketch
-![Initial keyboard sketch](IMG_1408.jpg)
+![Initial keyboard sketch](IMG_1408.JPG)
 
 #### Notes on Parts for Keyboard
-![Notes for parts](IMG_1409.jpg)
+![Notes for parts](IMG_1409.JPG)
